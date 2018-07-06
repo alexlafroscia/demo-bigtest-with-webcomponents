@@ -15,7 +15,6 @@
     "@babel/preset-react": "^7.0.0-beta.51",
     "@babel/preset-stage-2": "^7.0.0-beta.51",
     "@bigtest/interactor": "^0.6.0",
-    "@bigtest/mocha": "^0.4.1",
     "@bigtest/react": "^0.1.2",
     "babel-loader": "^8.0.0-beta.4",
     "chai": "^4.1.2",

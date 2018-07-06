@@ -1,14 +1,8 @@
-import { describe, afterEach, it } from "@bigtest/mocha";
 import { mount, cleanup } from "@bigtest/react";
 import { expect } from "chai";
 
 import FooBarInteractor from "../interactors/foo-bar";
-
-// Import and initialize the component
-import "../../src/index";
-
-// Ensure JSX works correctly
-import React from "react";
+import "../../src/components/foo-bar";
 
 describe("testing a WebComponent", () => {
   let fooBar = new FooBarInteractor();

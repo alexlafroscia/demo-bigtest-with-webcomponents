@@ -711,12 +711,6 @@
   dependencies:
     "@bigtest/convergence" "^0.9.1"
 
-"@bigtest/mocha@^0.4.1":
-  version "0.4.1"
-  resolved "https://registry.yarnpkg.com/@bigtest/mocha/-/mocha-0.4.1.tgz#3cf8fffc9202132feb15064e8ae7db311d743341"
-  dependencies:
-    "@bigtest/convergence" "^0.9.1"
-
 "@bigtest/react@^0.1.2":
   version "0.1.2"
   resolved "https://registry.yarnpkg.com/@bigtest/react/-/react-0.1.2.tgz#52b1c0ac7d3bbded421f1407e0e8a589c5261951"
